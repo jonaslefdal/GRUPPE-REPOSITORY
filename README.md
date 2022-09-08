@@ -1,4 +1,5 @@
-<h1> GRUPPE-REPOSITORY </h1>
+<h1> IND HEADER </h1>
+
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
