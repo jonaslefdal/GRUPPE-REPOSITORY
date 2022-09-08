@@ -1,6 +1,6 @@
 <h1> IND HEADER </h1>
 
-| Command | Description |
+| Navn | Link |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Jonas Lefdal` | https://github.com/jonaslefdal/IND-REPOSITORY |
+| `` |  |
