@@ -1,4 +1,6 @@
 * Hvordan var prosessen i gruppen for å komme frem til innlevering? *
 
-Vi jobbet sammen i gruppen for å få dette til. Alle medlemmer hadde på forhånd laget en konto og personal access token. Jonas i gruppen tok ansvar og lagde felles repository da han hadde litt erfaring med GIT fra tidligere. Så koblet gruppen seg en etter en på den felles, og vi la oss selv til i tabellen med navn og link til individuell repository.
-Som gruppe forstod vi ikke alt av dette, så det var godt at en av oss hadde litt erfaring fra før. Vi har valgt å gi oss tallet 2 for å beskrive hvor godt vi forstod dette. Vi forstod nok til å klare denne innleveringen, men ser behovet for å lese oss opp på dette i etterkant. 
+Vi jobbet sammen i gruppen for å få dette til. Alle medlemmer hadde på forhånd laget en konto og personal access token. 
+Jonas i gruppen tok ansvar og lagde felles repository da han hadde litt erfaring med GIT fra tidligere. Så koblet gruppen seg en etter en på den felles, og vi la oss selv til i tabellen med navn og link til individuell repository.
+Som gruppe forstod vi ikke alt av dette, så det var godt at en av oss hadde litt erfaring fra før. 
+Vi har valgt å gi oss tallet 2 for å beskrive hvor godt vi forstod dette. Vi forstod nok til å klare denne innleveringen, men ser behovet for å lese oss opp på dette i etterkant. 
