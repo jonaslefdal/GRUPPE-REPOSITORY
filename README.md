@@ -1,4 +1,4 @@
-<h1> Gruppe 8B REPOSITORY </h1>
+<h1> Gruppe 8b REPOSITORY </h1>
 
 | Navn | Link |
 | --- | --- |
