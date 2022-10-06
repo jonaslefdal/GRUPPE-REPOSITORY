@@ -1,4 +1,4 @@
-<h1> Gruppe 8b REPOSITORY </h1>
+# Gruppe 8B REPOSITORY 
 
 | Navn | Link |
 | --- | --- |
@@ -8,7 +8,8 @@
 | `Mohammed Siddik`  | https://github.com/Kroxa555/IND-REPOSITORY |
 | `Daniel Vu` |https://github.com/Ob-juan02/IND-REPOSITORY |
 
-
+## Trykk **[HER](https://jonaslefdal.github.io/GRUPPE-REPOSITORY/) for nettside**
+<br>
 <h2> Referat flaggoppgave </h2>
 Første del av oppgaven gikk ut på å sette opp Projects modulen i Github. Dette ble introdusert til oss i en forelesning, så vi følte vi hadde litt begrep på hva dette var og hvordan vi kunne bruke det. Når vi først satte opp selve prosjektet på nettsiden møtte vi på litt diverse problemer og utfordringer. Da valgte vi at alle i gruppa skulle lese seg opp på relevant dokumentasjon og se litt diverse tutorials og lignende på YouTube, og fikk et mye bedre utgangspunkt å jobbe med. 
 
