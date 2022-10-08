@@ -25,8 +25,8 @@ Siste del gikk ut på å benytte Canvas API. Flagget vi skulle lage var Italia. 
 
 
 <h3> Referanser </h3>
-About projects (classic) - GitHub Docs. (2022), GitHub Docs. https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards
-About Projects - GitHub Docs. (2022) GitHub Docs. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
-Canvas API - Web APIs MDN. (2022, September 2). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/API/Canvas API
-GitHub Pages. (2022). GitHub Pages. https://pages.github.com/
-Wikipedia Contributors. (2022, September 4). List of flags by color. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/List_of_flags_by_color
+About projects (classic) - GitHub Docs. (2022), GitHub Docs. https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards <br>
+About Projects - GitHub Docs. (2022) GitHub Docs. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects <br>
+Canvas API - Web APIs MDN. (2022, September 2). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/API/Canvas API <br>
+GitHub Pages. (2022). GitHub Pages. https://pages.github.com/ <br>
+Wikipedia Contributors. (2022, September 4). List of flags by color. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/List_of_flags_by_color <br>
